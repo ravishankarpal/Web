@@ -1,0 +1,64 @@
+.anchor {
+    text-decoration: none;
+}
+
+.chawin {
+    color: green;
+    text-decoration: none;
+}
+
+.text {
+    background-color: #f6f9fa
+}
+
+.sub {
+    font-size: 8px;
+}
+
+#setimg {
+    border-radius: 57px;
+    width: 45px;
+}
+
+.about {
+    padding-top: 190px;
+    text-align: center;
+}
+
+.footer {
+    color: white;
+}
+
+.aud {
+    height: 22px;
+    margin-top: 15px;
+    margin-left: 244px;
+}
+
+.fooimg {
+    width: 32px;
+    border-radius: 47px;
+    margin-bottom: 7px;
+}
+
+.dot1 {
+    color: red;
+    padding-left: 116px;
+}
+
+.splash {
+    color: white;
+    padding-left: 20px;
+}
+
+.nav2 {
+    color: black;
+}
+
+.dot2 {
+    color: red;
+}
+
+.pop1 {
+    background-color: white;
+}
